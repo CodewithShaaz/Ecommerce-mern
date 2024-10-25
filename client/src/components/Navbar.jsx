@@ -160,7 +160,7 @@ const Navbar = ({ openAuth, setOpenAuth, currentUser }) => {
         <NavItems>
           <Navlink to="/">Home</Navlink>
           <Navlink to="/Shop">Shop</Navlink>
-          <Navlink to="/New_Arrivals">New Arrivals</Navlink>
+          <Navlink to="/NewArrivals">New Arrivals</Navlink>
           <Navlink to="/Orders">Orders</Navlink>
           <Navlink to="/Contact">Contact</Navlink>
         </NavItems>
@@ -173,7 +173,7 @@ const Navbar = ({ openAuth, setOpenAuth, currentUser }) => {
             <Navlink onClick={() => setIsOpen(!isOpen)} to="/Shop">
               Shop
             </Navlink>
-            <Navlink onClick={() => setIsOpen(!isOpen)} to="/New_Arrivals">
+            <Navlink onClick={() => setIsOpen(!isOpen)} to="/NewArrivals">
               New Arrivals
             </Navlink>
             <Navlink onClick={() => setIsOpen(!isOpen)} to="/Orders">
@@ -243,7 +243,7 @@ const Navbar = ({ openAuth, setOpenAuth, currentUser }) => {
         </Mobileicons>
 
         <ButtonContainer>
-          <Navlink to="/search">
+          <Navlink to="/Search">
             <SearchRounded sx={{ color: "inherit", fontSize: "30px" }} />
           </Navlink>
 
