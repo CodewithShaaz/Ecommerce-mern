@@ -1,6 +1,6 @@
 export const category = [
   {
-    img: "https://jaxsonmaximus.com/wp-content/uploads/2020/04/34394c211f01e58539f91e79e6ce1420.jpg",
+    img: "https://d1fufvy4xao6k9.cloudfront.net/images/blog/posts/2024/07/hockerty_brown_cotton_polo_shirt_--ar_43_7910f81c-0c67-49c6-a350-b578061a1a81_1.jpg",
     name: "Casual Wear",
     off: "20-40% OFF",
   },
@@ -10,7 +10,7 @@ export const category = [
     off: "10-20% OFF",
   },
   {
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqR8nb8uO-HERwcu2eIWBFaSY7DC_KaX19hvBNApYgTgacS1Hhhx8WJOY_-jacJnwzXqY&usqp=CAU",
+    img: "https://todaysparent.mblycdn.com/tp/resized/2020/11/767x431/how-to-get-your-toddler-to-wear-winter-clothes-1280x720.jpg",
     name: "Winter Wear",
     off: "20-40% OFF",
   },
