@@ -10,7 +10,7 @@ const app = express();
 
 // Restricting CORS to only allow frontend URL (for production)
 const corsOptions = {
-  origin: process.env.NODE_ENV === "production" ? "https://your-frontend.netlify.app" : "http://localhost:3000", 
+  origin: process.env.NODE_ENV === "production" ? "https://ecommercee-client.netlify.app/" : "http://localhost:3000", 
   methods: "GET,POST,PUT,DELETE",
   allowedHeaders: "Content-Type,Authorization",
 };
