@@ -1,7 +1,7 @@
 # Ecommerce Full Stack Project
+<img src="Overview/Ecommerce.gif" width="700" alt="Demo Video" />
 
 A full stack ecommerce web application built with React (frontend) and Node.js/Express (backend).
-<img src="Overview/Ecommerce.gif" width="700" alt="Demo Video" />
 
 ## Features
 
